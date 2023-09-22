@@ -1,5 +1,5 @@
 # DESCRIPTION
-Replaces default styles and white background on chrome:// URLs with a blueish theme akin to a darkmode.
+A Chrome browser extension, replaces default styles and white background on chrome:// URLs with a blueish theme akin to a darkmode.
 
 Requires flag chrome://flags/#extensions-on-chrome-urls enabled to work, hence I'm just posting raw code here instead of posting a ready-to-install extension elsewhere.
 
