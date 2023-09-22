@@ -14,12 +14,14 @@
 				"chrome://flags/",
 				"chrome://history/",
 				"chrome://downloads/",
+				"chrome://version/",
 				"chrome://extensions/*",
 				"chrome://bookmarks/*",
 				"chrome://settings/*",
 				"chrome://flags/*",
 				"chrome://history/*",
-				"chrome://downloads/*"
+				"chrome://downloads/*",
+				"chrome://version/*"
 			]
 		}
 	]
